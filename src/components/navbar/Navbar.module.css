@@ -1,0 +1,29 @@
+.nav {
+    grid-area: n;
+    background-color:#595959;
+    text-align: center;
+    height: 367px;
+  }
+
+.item {
+    padding: 20px;
+
+}
+
+.item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.item:hover {
+    background-color: #73b3ff;
+}
+
+.sidebar {
+    margin-top: 70px;
+}
+
+.friend {
+    display: inline-block;
+    margin: 10px;
+}

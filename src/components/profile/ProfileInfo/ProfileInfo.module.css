@@ -1,0 +1,20 @@
+.userInfo {
+
+}
+
+.userStatus {
+    text-transform: uppercase;
+    padding: 40px;
+}
+
+.userContacts {
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+
+.userJobStatus {
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
